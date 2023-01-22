@@ -1,3 +1,3 @@
 #!/bin/sh
 
-yarn seeds
+bin/rails db:seed

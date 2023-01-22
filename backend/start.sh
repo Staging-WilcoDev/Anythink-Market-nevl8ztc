@@ -1,3 +1,3 @@
 #!/bin/sh
 
-yarn start
+bundle exec rails s
